@@ -13,4 +13,4 @@ Filters words (like character names or waifus) from a file based on a phrase you
 1. Clone or download this repository.
 2. Run the script:
    ```bash
-   python foo.py
+   python main.py
