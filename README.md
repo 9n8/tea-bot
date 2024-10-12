@@ -1,4 +1,4 @@
-#Tea Bot Helper
+# Tea Bot Helper
 
 Filters words (like character names or waifus) from a file based on a phrase you input. The best part? It won’t give you the same word twice!
 
